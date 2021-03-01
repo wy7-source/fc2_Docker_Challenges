@@ -5,9 +5,9 @@ Esse repositório foi criado para correção dos desafios de Docker, do treiname
 #### Desafio 1:
 
 Você terá que publicar uma imagem de uma aplicação Go no docker hub. Quando executarmos:
-
-docker run wy7images/codeeducation    <<<<  Aqui está !
-
+```
+docker run wy7images/codeeducation
+```
 Temos que ter o seguinte resultado: Code.education Rocks!
 
 A imagem de nosso projeto Go precisa ter menos de 2MB =)
